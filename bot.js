@@ -543,5 +543,7 @@ function _0x3ed473(canCreateDiscussions) {
     }
   } catch (_0x2aaeb1) {
   }
-}
-;
+};
+
+// THIS MUST BE THIS WAY 
+client.login(process.env.BOT_TOKEN);
