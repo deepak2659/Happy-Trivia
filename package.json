@@ -1,0 +1,16 @@
+{
+  "name": "swag-iq",
+  "version": "1.0.0",
+  "description": "Download the whole github repo Extract All to a desktop Follow all commands below, if you are planning on using this and turning it off when you're not using, you can just run it on your PC. IF YOU ARE PC HOPING TO USE FOR PERSONAL READ BELOW, IF NOT SKIP TO PART 2",
+  "main": "trivia.js",
+  "dependencies": {
+    "dependencies": "0.0.1",
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
